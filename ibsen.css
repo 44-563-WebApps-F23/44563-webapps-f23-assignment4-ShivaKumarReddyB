@@ -52,3 +52,9 @@
   border: 1px solid #ccc;
   padding: 8px;
 }
+
+h5:hover {
+  color: orange;
+  border: dotted 2px azure;
+  text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+}
