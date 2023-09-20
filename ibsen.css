@@ -58,3 +58,16 @@ h5:hover {
   border: dotted 2px azure;
   text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
 }
+
+img {
+  height: 25px;
+}
+
+nav {
+  display: flex;
+  margin-top: 15px;
+}
+
+nav a {
+  margin-right: 15px;
+}
